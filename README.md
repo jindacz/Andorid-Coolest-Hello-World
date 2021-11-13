@@ -8,10 +8,10 @@ This is an app that user sees custom text in a label, see custom background colo
 ### App Walk-though
 
 
-![](https://i.imgur.com/4RY2erv.gif)
+![]()
 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://i.imgur.com/4RY2erv.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
